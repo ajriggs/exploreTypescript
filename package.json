@@ -2,14 +2,10 @@
   "name": "exploretypescript",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
-  },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.3.0"
+  "dependencies": {
+    "@types/lodash": "^4.14.73",
+    "lodash": "^4.17.4"
   }
 }
